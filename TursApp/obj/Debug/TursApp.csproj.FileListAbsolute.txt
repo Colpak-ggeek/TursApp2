@@ -1,0 +1,58 @@
+S:\ИСП 251\Насибов и Костерин\TursApp\bin\Debug\TursApp.exe.config
+S:\ИСП 251\Насибов и Костерин\TursApp\bin\Debug\TursApp.exe
+S:\ИСП 251\Насибов и Костерин\TursApp\bin\Debug\TursApp.pdb
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\TursApp.csproj.AssemblyReference.cache
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\AddEditPage.g.cs
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\HotelPage.g.cs
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\MainWindow.g.cs
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\App.g.cs
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\TursApp_MarkupCompile.cache
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\TursApp_MarkupCompile.lref
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\MainWindow.baml
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\AddEditPage.baml
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\HotelPage.baml
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\TursApp.g.resources
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\TursApp.Properties.Resources.resources
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\TursApp.csproj.GenerateResource.cache
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\TursApp.csproj.CoreCompileInputs.cache
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\TursApp.exe
+S:\ИСП 251\Насибов и Костерин\TursApp\obj\Debug\TursApp.pdb
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\bin\Debug\TursApp.exe.config
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\bin\Debug\TursApp.exe
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\bin\Debug\TursApp.pdb
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp.csproj.AssemblyReference.cache
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\AddEditPage.g.cs
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\HotelPage.g.cs
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\MainWindow.g.cs
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\App.g.cs
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp_MarkupCompile.cache
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp_MarkupCompile.lref
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\AddEditPage.baml
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\HotelPage.baml
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\MainWindow.baml
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp.g.resources
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp.Properties.Resources.resources
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp.csproj.GenerateResource.cache
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp.csproj.CoreCompileInputs.cache
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp.exe
+C:\Users\Zhuma\Desktop\Стеблев Адёхин\TursApp\obj\Debug\TursApp.pdb
+S:\ИСП 251\Стеблев, Алёхин\TursApp\bin\Debug\TursApp.exe.config
+S:\ИСП 251\Стеблев, Алёхин\TursApp\bin\Debug\TursApp.exe
+S:\ИСП 251\Стеблев, Алёхин\TursApp\bin\Debug\TursApp.pdb
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\TursApp.csproj.AssemblyReference.cache
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\AddEditPage.g.cs
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\HotelPage.g.cs
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\MainWindow.g.cs
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\App.g.cs
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\TursApp_MarkupCompile.cache
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\TursApp_MarkupCompile.lref
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\AddEditPage.baml
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\HotelPage.baml
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\MainWindow.baml
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\TursApp.g.resources
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\TursApp.Properties.Resources.resources
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\TursApp.csproj.GenerateResource.cache
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\TursApp.csproj.CoreCompileInputs.cache
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\TursApp.exe
+S:\ИСП 251\Стеблев, Алёхин\TursApp\obj\Debug\TursApp.pdb
